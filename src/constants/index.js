@@ -286,7 +286,7 @@ import {
         },
       ],
       image: jukefi,
-      source_code_link: "https://githubbuddyglimpse.netlify.app",
+      source_code_link: "https://jukefi-audichyaishan.netlify.app/",
     },
     {
       name: "Hand Tracking Module | OpenCV",
