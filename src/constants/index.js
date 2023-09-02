@@ -26,6 +26,8 @@ import {
     threejs,
     resume,
     linkdin,
+    htm,
+    jukefi,
   } from "../assets";
   
   export const navLinks = [
@@ -176,7 +178,7 @@ import {
     {
       testimonial:
         "Resume",
-      name: "",
+      name: "https://drive.google.com/uc?export=download&id=16R1uZtoJL6gmy9LTG0-mKbi4y3JR5VY9",
       designation: "CFO",
       company: "Acme Co",
       image: resume,
@@ -265,7 +267,49 @@ import {
       ],
       image: carrent,
       source_code_link: "https://bnf-audichyaishan.netlify.app/",
-    }
+    },{
+      name: "JukeFi | Lofi Music Player",
+      description:
+        "JukeFi is a web-based music player designed specifically for playing soothing lofi songs. It provides a seamless and user-friendly experience for enjoying your favorite lofi tracks right in your browser.",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "chakra-ui",
+          color: "green-text-gradient",
+        },
+        {
+          name: "next.js",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: jukefi,
+      source_code_link: "https://githubbuddyglimpse.netlify.app",
+    },
+    {
+      name: "Hand Tracking Module | OpenCV",
+      description:
+        "Hand tracking and body tracking module that maps cardinal points using computer vision. Uses the mediapipe library for accurate results and recognition. ",
+      tags: [
+        {
+          name: "python",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "opencv",
+          color: "green-text-gradient",
+        },
+        {
+          name: "mediapipe",
+          color: "pink-text-gradient",
+        },
+        
+      ],
+      image: htm,
+      source_code_link: "https://github.com/ishanaudichya/OpenCV",
+    },
   ];
   
   export { services, technologies, experiences, testimonials, projects };

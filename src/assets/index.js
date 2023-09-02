@@ -26,12 +26,15 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
-
+import jukefi from './jukefi.png'
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
+import htm from "./htm.png"
 import tripguide from "./tripguide.png";
 
 export {
+  jukefi,
+  htm,
   resume,
   linkdin,
   iagit,
