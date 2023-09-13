@@ -31,13 +31,14 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import htm from "./htm.png"
 import tripguide from "./tripguide.png";
-
+import dots from "./dots.png";
 export {
   jukefi,
   htm,
   resume,
   linkdin,
   iagit,
+  dots,
   logo,
   backend,
   creator,

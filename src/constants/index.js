@@ -1,4 +1,5 @@
 import {
+    dots,
     mobile,
     backend,
     creator,
@@ -36,8 +37,8 @@ import {
       title: "About",
     },
     {
-      id: "work",
-      title: "Work",
+      id: "projects",
+      title: "Projects",
     },
     {
       id: "contact",
@@ -268,25 +269,25 @@ import {
       image: carrent,
       source_code_link: "https://bnf-audichyaishan.netlify.app/",
     },{
-      name: "JukeFi | Lofi Music Player",
+      name: "Dotify | Img to Reacitve dots",
       description:
-        "JukeFi is a web-based music player designed specifically for playing soothing lofi songs. It provides a seamless and user-friendly experience for enjoying your favorite lofi tracks right in your browser.",
+        "Dotify is a web-based project that harnesses the power of JavaScript to breathe life into your favorite images, allowing them to come alive as reactive dots that collide, merge, and leave behind an impression of the original image.",
       tags: [
         {
-          name: "react",
+          name: "html",
           color: "blue-text-gradient",
         },
         {
-          name: "chakra-ui",
+          name: "css",
           color: "green-text-gradient",
         },
         {
-          name: "next.js",
+          name: "javascript",
           color: "pink-text-gradient",
         },
       ],
-      image: jukefi,
-      source_code_link: "https://jukefi-audichyaishan.netlify.app/",
+      image: dots,
+      source_code_link: "https://reactive-dots-ishan.netlify.app/",
     },
     {
       name: "Hand Tracking Module | OpenCV",
@@ -309,6 +310,26 @@ import {
       ],
       image: htm,
       source_code_link: "https://github.com/ishanaudichya/OpenCV",
+    },{
+    name: "JukeFi | Lofi Music Player",
+      description:
+        "JukeFi is a web-based music player designed specifically for playing soothing lofi songs. It provides a seamless and user-friendly experience for enjoying your favorite lofi tracks right in your browser.",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "chakra-ui",
+          color: "green-text-gradient",
+        },
+        {
+          name: "next.js",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: jukefi,
+      source_code_link: "https://jukefi-audichyaishan.netlify.app/",
     },
   ];
   
