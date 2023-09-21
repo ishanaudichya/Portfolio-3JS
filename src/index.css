@@ -35,10 +35,10 @@
 }
 .brown-gradient {
   background: #804dee;
-  background: linear-gradient(-90deg, #7c4d3c 0%, rgba(60, 51, 80, 0) 100%);
+  background: linear-gradient(-90deg, #9a5f4a 0%, rgba(60, 51, 80, 0) 100%);
   background: -webkit-linear-gradient(
     -90deg,
-    #7c4d3c 0%,
+    #9a5f4a 0%,
     rgba(60, 51, 80, 0) 100%
   );
 }
